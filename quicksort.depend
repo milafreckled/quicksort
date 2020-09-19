@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600429058 source:c:\users\milad\onedrive\desktop\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+
